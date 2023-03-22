@@ -1,0 +1,13 @@
+from:
+<e-mail>
+<password>
+
+to:
+<e-mail>
+
+e-mail:
+<Title>
+
+<Content
+Content
+Content>
